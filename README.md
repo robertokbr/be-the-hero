@@ -4,6 +4,10 @@
 
 
 # SEMANA OMNISTACK 11.0
+
+![](https://github.com/robertokbr/Be-The-hero/blob/master/frontend/src/assets/App.jpg)
+
+
 ## Be The Hero
 Web and Mobile app to join **NGOs**  (Non-governmental organizations) end their causes into people thats want to turn the world a batter place.
 
