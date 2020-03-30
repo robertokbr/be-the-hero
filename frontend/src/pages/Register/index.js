@@ -35,7 +35,7 @@ const history =useHistory();
         };
 try{
     const response =   await api.post('ongs', data);
-    alert(`Seu Id de acesso: ${response.data.id}`);
+    alert(`Obrigado por se cadastrar. Seu Id de acesso: ${response.data.id}, não esqueça de anotar!`);
     history.push('/');
 
 }catch (err){
