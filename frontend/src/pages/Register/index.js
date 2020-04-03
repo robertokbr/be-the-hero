@@ -10,6 +10,7 @@ import api from '../../services/api';
 
 export default function Register(){
 
+const [id, setId] = useState('');
 const [name, setName] = useState('');
 const [email, setEmail] = useState('');
 const [whatsapp, setWhatsapp] = useState('');
@@ -18,7 +19,9 @@ const [uf, setUf] = useState('');
 
 const history =useHistory();
 
-
+function show() {
+    document.querySelector('#public').classList.toggle('hide')
+};
 
 
 
@@ -26,6 +29,7 @@ const history =useHistory();
         e.preventDefault();
 
         const data = {
+            id,
             name,
             email,
             whatsapp,
@@ -61,11 +65,21 @@ return(
 
 </Link>
 
+
+
 </section>
 
 
 
-<form onSubmit={handleRegister}>
+   
+
+<form>
+
+<input id="public" placeholder="ID"
+value={id}
+onChange={ e => setId(e.target.value) }
+
+/>
 
 <input placeholder="Nome da ONG"
 value={name}
@@ -104,9 +118,10 @@ onChange={ e => setUf(e.target.value) }
 
 </div>
 
-<button className="button" type="submit">Cadastrar
+<button className="button" type="submit" onClick={handleRegister}>Cadastrar
 
 </button>
+
 </form>
 
 </div>

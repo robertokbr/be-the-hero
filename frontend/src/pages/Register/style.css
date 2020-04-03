@@ -63,3 +63,9 @@ display: flex;
 margin-left: 8px;
 
 }
+
+.hide{
+
+visibility: hidden;
+
+}

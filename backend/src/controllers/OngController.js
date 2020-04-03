@@ -14,7 +14,7 @@ async create(request, response){
     const {name, email, whatsapp, city, uf} = request.body
     
     
-    const id= crypto.randomBytes(4).toString('HEX');
+    const id= request.body.id || crypto.randomBytes(4).toString('HEX');
         
     
     
@@ -24,7 +24,8 @@ async create(request, response){
          email,
          whatsapp,
          city,
-         uf
+         uf,
+         
      })   
     
     
