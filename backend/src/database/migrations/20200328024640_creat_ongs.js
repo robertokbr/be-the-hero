@@ -11,6 +11,9 @@ table.string('city').notNullable();
 table.string('uf', 2).notNullable();
 
 
+
+
+
  }) ;  
 
 };

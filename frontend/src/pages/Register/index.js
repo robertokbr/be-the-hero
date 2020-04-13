@@ -39,7 +39,7 @@ function show() {
         };
 try{
     const response =   await api.post('ongs', data);
-    alert(`Obrigado por se cadastrar. Seu Id de acesso: ${response.data.id}, não esqueça de anotar!`);
+    alert(`Anote seu Id de acesso: ${response.data.id}`);
     history.push('/');
 
 }catch (err){
