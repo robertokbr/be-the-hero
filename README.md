@@ -55,3 +55,7 @@ Web and Mobile app to join **NGOs**  (Non-governmental organizations) end their 
 - Create a branch with your feature: `git checkout -b my-feature`
 - Commit your change: `git commit -m 'feat: My new feature'`
 - Push your branch: `git push origin my-feature`
+
+## Certificate
+<h4 align="center">
+<img src="https://github.com/robertokbr/Be-The-hero/blob/master/frontend/src/assets/Captura%20de%20Tela%20(60).png"  /><br>
