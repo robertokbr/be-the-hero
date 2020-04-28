@@ -58,4 +58,4 @@ Web and Mobile app to join **NGOs**  (Non-governmental organizations) end their 
 
 ## Certificate
 <h4 align="center">
-<img src="https://github.com/robertokbr/Be-The-hero/blob/master/frontend/src/assets/Captura%20de%20Tela%20(60).png"  /><br>
+<img src="https://github.com/robertokbr/Be-The-hero/blob/master/frontend/src/assets/Captura%20de%20Tela%20(60).png" width="720px"  /><br>
