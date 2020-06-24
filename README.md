@@ -26,6 +26,12 @@ Web and Mobile app to join NGOs  (Non-governmental organizations) end their caus
   </a>
 </p>
 
+<h1 align="center">
+    <img src="https://github.com/robertokbr/Be-The-hero/blob/master/frontend/src/assets/App.jpg"/>
+    <br>
+</h1>
+
+
 ## 💻 Techs
 - [NodeJs](https://nodejs.org/en/) - Build the server
 - [ReactJs](https://reactjs.org) - A JavaScript library for building user interfaces
