@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-Web and Mobile app to join **NGOs**  (Non-governmental organizations) end their causes into people thats want to turn the world a batter place.
+Web and Mobile app to join NGOs  (Non-governmental organizations) end their causes into people thats want to turn the world a batter place.
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/robertokbr/Be-The-hero.svg">
@@ -26,8 +26,8 @@ Web and Mobile app to join **NGOs**  (Non-governmental organizations) end their 
   </a>
 </p>
 
-
- [NodeJs](https://nodejs.org/en/) - Build the server
+## 💻 Techs
+- [NodeJs](https://nodejs.org/en/) - Build the server
 - [ReactJs](https://reactjs.org) - A JavaScript library for building user interfaces
 - [React Native](https://reactnative.dev) - Native Development
 - [Expo](https://expo.io) - Deploy and quickly iterate on native Android, iOS, and web apps
@@ -41,7 +41,7 @@ Web and Mobile app to join **NGOs**  (Non-governmental organizations) end their 
 - [Supertest](https://github.com/visionmedia/supertest) - Super-agent driven library for testing node.js HTTP servers
 
 
-## :information_source: How To Use
+## 🕹 How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
 
@@ -58,6 +58,14 @@ $ yarn install
 # Run the app
 $ yarn start
 ```
+  
+## 🏗 How to contribute
+
+- Fork this repo;
+- Create a branch with your feature: `git checkout -b my-feature`
+- Commit your change: `git commit -m 'feat: My new feature'`
+- Push your branch: `git push origin my-feature`
+
 ---
 
 Roberto Junior :wave: [Join me on Linkedin!](https://www.linkedin.com/in/robertojrcdc/)
@@ -68,15 +76,7 @@ Roberto Junior :wave: [Join me on Linkedin!](https://www.linkedin.com/in/roberto
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 
-
-  
-## How to contribute
-
-- Fork this repo;
-- Create a branch with your feature: `git checkout -b my-feature`
-- Commit your change: `git commit -m 'feat: My new feature'`
-- Push your branch: `git push origin my-feature`
-
 ## Certificate
 <h4 align="center">
-<img src="https://github.com/robertokbr/Be-The-hero/blob/master/frontend/src/assets/Captura%20de%20Tela%20(60).png" width="720px"  /><br>
+<img src="https://github.com/robertokbr/Be-The-hero/blob/master/frontend/src/assets/Captura%20de%20Tela%20(60).png" width="720px"  /><br>  
+
